@@ -1,0 +1,21 @@
+version: '3'
+services:
+  web:
+    build: 
+      context:  . #use the current directory to find the file.
+      dockerfile: Dockerfile.dev #use this file for building
+    ports:
+      - "3000:3000" # map the following ports
+    volumes:
+      - /app/node_modules # map the volume as it is
+      - .:/app # map the current directory with container 
+               #app directory.
+  
+  tests:
+    build:
+      context:  .
+      dockerfile: Dockerfile.dev  
+    volumes:
+      - /app/node_modules
+      - .:/app
+    command:  ["npm","run","test"]          

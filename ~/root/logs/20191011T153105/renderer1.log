@@ -1,0 +1,6 @@
+[2019-10-11 16:51:44.518] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-10-11 16:51:53.050] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-10-17 11:41:07.986] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-azuretools.vscode-docker' took 96% of 3529.441ms, saved PROFILE here: '/tmp/exthost-b0d615.cpuprofile' [{"id":"gc","total":117416,"percentage":3},{"id":"ms-azuretools.vscode-docker","total":3395127,"percentage":96},{"id":"program","total":8528,"percentage":0},{"id":"self","total":6617,"percentage":0},{"id":"vscode.merge-conflict","total":393,"percentage":0}]
+[2019-10-17 11:54:41.250] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-10-17 11:54:42.825] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-10-17 11:54:44.285] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

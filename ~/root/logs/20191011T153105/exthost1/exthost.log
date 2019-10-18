@@ -1,0 +1,70 @@
+[2019-10-11 15:31:32.502] [exthost] [info] extension host started
+[2019-10-11 15:31:32.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-11 15:31:32.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-11 15:31:32.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-11 15:31:32.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-11 15:31:33.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-11 15:31:33.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-11 15:31:33.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-11 15:31:33.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-11 15:31:33.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-11 15:31:33.907] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-11 15:31:34.257] [exthost] [info] eager extensions activated
+[2019-10-11 15:37:35.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-11 15:37:35.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-11 15:37:36.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-11 15:37:36.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-11 15:37:36.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-11 15:37:36.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-11 15:37:38.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-11 15:37:38.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-11 16:51:44.165] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-11 16:51:44.165] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-11 16:51:44.523] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-11 16:51:44.523] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-11 16:51:52.806] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-11 16:51:52.806] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:36:30.009] [exthost] [info] extension host started
+[2019-10-17 11:36:30.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:36:30.136] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-17 11:36:30.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:36:30.176] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-17 11:36:30.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:36:30.636] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-17 11:36:31.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:36:31.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-17 11:36:31.512] [exthost] [info] eager extensions activated
+[2019-10-17 11:37:13.481] [exthost] [info] extension host started
+[2019-10-17 11:37:13.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:37:13.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-17 11:37:13.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:37:13.907] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-17 11:37:14.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:37:14.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-17 11:37:15.425] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-17 11:37:15.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-17 11:37:15.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-17 11:37:15.493] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-17 11:37:15.742] [exthost] [info] eager extensions activated
+[2019-10-17 11:40:58.153] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-10-17 11:40:58.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-azuretools.vscode-docker-0.8.1/main
+[2019-10-17 11:44:42.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-17 11:44:42.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-17 11:44:42.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-17 11:44:42.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-17 11:44:42.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-17 11:44:42.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-17 11:54:41.150] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:41.150] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:54:41.658] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:41.658] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:54:41.963] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:41.964] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:54:42.786] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:42.786] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:54:43.008] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:43.008] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 11:54:44.170] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-17 11:54:44.170] [exthost] [error] {"label":"Acquiring typings...","detail":"Acquiring typings definitions for IntelliSense."}
+[2019-10-17 12:13:08.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-17 12:13:08.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
