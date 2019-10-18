@@ -20,6 +20,6 @@ deploy:
   access_key_id:  
     secure: $aws-access-key
   secret_access_key:
-    secure: $aws-secret-key
+    secure: "$aws-secret-key"
 
     
